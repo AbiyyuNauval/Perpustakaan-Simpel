@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Goal khusus NetBeans: klik kanan proyek -> Run Maven -> jacoco
+  Menjalankan "clean test": hapus hasil lama, jalankan semua test,
+  lalu buat laporan JaCoCo di target/site/jacoco/index.html
+-->
+<actions>
+    <action>
+        <actionName>CUSTOM-jacoco</actionName>
+        <displayName>jacoco</displayName>
+        <goals>
+            <goal>clean</goal>
+            <goal>test</goal>
+        </goals>
+    </action>
+</actions>
