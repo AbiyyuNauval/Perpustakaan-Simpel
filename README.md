@@ -52,5 +52,5 @@ Cabang di `LayananPerpustakaan` baris 220 (`batasKategori < lama`) tidak mungkin
 ## Kelompok
 
 - Abiyyu Nauval Sugiarto (2455301002)
-- Nama Anggota 2 (2455301127)
-- Nama Anggota 3 (2455301133)
+- Muhammad Sarvin (2455301127)
+- Nadin Cantika Sari (2455301133)
