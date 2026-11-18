@@ -53,4 +53,4 @@ Cabang di `LayananPerpustakaan` baris 220 (`batasKategori < lama`) tidak mungkin
 
 - Abiyyu Nauval Sugiarto (2455301002)
 - Nama Anggota 2 (2455301127)
-- Nama Anggota 3 (NIM)
+- Nama Anggota 3 (2455301133)
